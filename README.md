@@ -7,7 +7,7 @@
 
 >> To Install and use this site:
 
-1. Open cmd and type: git clone https://github.com/UKharecha/Weather-Forecast-Website.git
+1. Open cmd and type: `git clone https://github.com/UKharecha/Weather-Forecast-Website.git`
 2. Enter the API key from https://openweathermap.org/api and paste it in script.js 
 3. Save and run the code to see the Weather!!
 
